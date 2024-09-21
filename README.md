@@ -12,4 +12,4 @@
 
 ## 📫 How to reach me
 - Email: [emre@adagifts.com]
-- LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/emre-sahin-data/)]
+- LinkedIn: [https://www.linkedin.com/in/emre-sahin-data]
