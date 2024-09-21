@@ -8,7 +8,7 @@
 - NumPy
 - Matplotlib
 
-## 🌱 I’m currently exploring advanced Python libraries and data visualization techniques.
+### 🌱 I’m currently exploring advanced Python libraries and data visualization techniques.
 
 ## 📫 How to reach me
 - Email: [emre@adagifts.com]
