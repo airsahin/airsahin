@@ -1,6 +1,6 @@
 👋 Hi, I’m Emre, based in Berlin.
 
-#### 🌱 🌱 Experienced in employing Python, SQL, and Tableau for advanced data analysis, effective visualization, and strategic data management.
+#### 🌱 🌱 Building expertise in Python, SQL, and Tableau to facilitate effective data analysis and insightful outcomes.
 
 ### 🎓 Toolbox
 ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=flat)
