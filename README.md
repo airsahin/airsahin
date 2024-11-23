@@ -1,4 +1,4 @@
-👋 Hi, I’m Emre, based in Berlin.
+👋 Hi, I’m Emre
 
 #### 🌱 🌱 Building expertise in Python, SQL, and Tableau to facilitate effective data analysis and insightful outcomes.
 
