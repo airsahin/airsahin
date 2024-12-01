@@ -1,7 +1,5 @@
 👋 Hi, I’m Emre
 
-#### 🌱 🌱 Building expertise in Python, SQL, and Tableau to facilitate effective data analysis and insightful outcomes.
-
 ### 🎓 Toolbox
 ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
