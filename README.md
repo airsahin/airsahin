@@ -17,3 +17,5 @@
 ### 📫 How to reach me
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:emre@adagifts.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/emre-sahin-data)
+[![Coursera](https://img.shields.io/badge/-Coursera-0056D2?logo=coursera&logoColor=white&style=flat)](https://www.coursera.org/user/5fb5bea044055c7dc79998db4fd937f6)  
+[![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat)](https://public.tableau.com/app/profile/emre.sahin1866/vizzes)
