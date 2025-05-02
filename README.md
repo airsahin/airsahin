@@ -13,7 +13,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 
-### 📊 Tableau Profile & Certifications 
+### 📊 Profiles 
 [![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat)](https://public.tableau.com/app/profile/emre.sahin1866/vizzes)
 [![Coursera](https://img.shields.io/badge/-Coursera-0056D2?logo=coursera&logoColor=white&style=flat)](https://www.coursera.org/user/5fb5bea044055c7dc79998db4fd937f6)  
 
